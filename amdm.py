@@ -26,4 +26,4 @@ def amdm(firt_page=1, last_page=2):
         firt_page += 1
 
 
-amdm(last_page=2)
+amdm()
